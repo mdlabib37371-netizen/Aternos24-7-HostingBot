@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "fox",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "fox",
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+  "server": {ELITEFOX}
+    "ip": "ELITEFOX.aternos.me",
+    "port": 49694,
     "version": "",
     "try-creative": false
   },
